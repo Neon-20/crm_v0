@@ -35,7 +35,6 @@ import { Search, Users, DollarSign, Activity, LayoutDashboard, Settings, CreditC
 import SettingsPage from './settings-page';
 import PricingPage from './pricing-page'
 import SupportPage from './support-page'
-import Image from 'next/image'
 import { Avatar, AvatarFallback, AvatarImage } from './ui/avatar'
 
 // Mock data for the table
